@@ -1,0 +1,11 @@
+--------------------
+Function started at 2020-07-08T16:38:18.417298 
+Following arguments were used: 
+Johan 20000 True
+
+--------------------
+Function started at 2020-07-08T16:40:51.567897 
+Following arguments were used: 
+Johan 20000 True
+
+Function returned 20000 

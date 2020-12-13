@@ -1,0 +1,12 @@
+--------------------
+Function started at 2020-07-08T16:49:30.518081 
+Following arguments were used: 
+Jorden Manager
+
+Function returned Manager 
+--------------------
+Function started at 2020-07-08T16:49:30.519080 
+Following arguments were used: 
+Mikel Salesman
+
+Function returned Salesman 

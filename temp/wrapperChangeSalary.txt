@@ -1,0 +1,12 @@
+--------------------
+Function started at 2020-07-08T16:49:30.517112 
+Following arguments were used: 
+Johan 20000 True
+
+Function returned 20000 
+--------------------
+Function started at 2020-07-08T16:49:30.517112 
+Following arguments were used: 
+Joh 20000
+isBonus = True
+Function returned 20000 
